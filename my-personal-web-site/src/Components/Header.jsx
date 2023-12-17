@@ -1,3 +1,5 @@
+import React from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 const Header = () => {
@@ -7,4 +9,4 @@ const Header = () => {
         </div>
     )
 }
-    export default Header
+export default Header
