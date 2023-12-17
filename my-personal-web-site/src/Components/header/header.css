@@ -1,0 +1,16 @@
+.navbar {
+    background-color: beige;
+    margin: 50px auto;
+
+    
+
+    
+}
+
+.navbar-links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    width: 100%;
+}
